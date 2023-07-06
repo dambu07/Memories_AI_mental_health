@@ -1,7 +1,7 @@
 import { Configuration, OpenAIApi } from 'openai'
 
 const configuration = new Configuration({
-	apiKey: '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',
+	apiKey: "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",
 })
 // keyy is needed to verify its us , config checks if the key is valid or not , if not it will throw an error ,
 
